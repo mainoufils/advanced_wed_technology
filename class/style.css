@@ -1,0 +1,30 @@
+.flag {
+    position: fixed;
+    width: 600px;
+    height: 400px;
+    border: 1px solid #000;
+}
+.blue {
+    background-color: #00a1df;
+    height: 50%;
+    width: 100%;
+}
+.yellow {
+    background-color: #f9d200;
+    height: 25%;
+    width: 100%;
+}
+.green {
+    background-color: #20613d;
+    height: 25%;
+    width: 100%;
+}
+.sun {
+    position: absolute;
+    top: 30px;
+    right: 55px;
+    width: 100px;
+    height: 100px;
+    background-color: #f9d200;
+    border-radius: 50%;
+}
